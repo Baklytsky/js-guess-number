@@ -1,0 +1,30 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-watch": "^5.0.1"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baklytsky/150-minutes-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Baklytsky/150-minutes-test/issues"
+  },
+  "homepage": "https://github.com/Baklytsky/150-minutes-test#readme",
+  "description": ""
+}
